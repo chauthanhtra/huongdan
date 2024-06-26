@@ -341,7 +341,7 @@ ___V.1 Nhận bệnh và hiệu chỉnh thông tin___
 - ![image](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/a004af5e-772b-455b-a361-a5f3fcc6f4f5)
 
 
-- Có thêm chức năng nhập giấy xác nhận lưu trú và thông tin giấy hẹn, giấy chuyển tuyến. Hướng dẫn chi tiết: [Hướng dẫn nhận bệnh có giấy xác nhận lưu trú - giấy hẹn và giấy chuyển tuyến] (https://gofile.me/78TQg/aAzEHMxdm)
+- Có thêm chức năng nhập giấy xác nhận lưu trú và thông tin giấy hẹn, giấy chuyển tuyến. Hướng dẫn chi tiết: [Hướng dẫn nhận bệnh có giấy xác nhận lưu trú - giấy hẹn và giấy chuyển tuyến] (https://gofile.me/78TQg/Rp4HvHmau)
 
 
 ___V.2 Cấp toa___
