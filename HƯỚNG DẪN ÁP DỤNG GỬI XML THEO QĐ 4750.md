@@ -71,7 +71,14 @@ ___I.3	Ký hiệu, viết tắt___
 
 ___I.4	Lưu trữ___
 
-- [NAS DH](https://github.com/dh-hos/To_Ho_Tro/edit/main/HUONG_DAN_SU_DUNG/H%C6%AF%E1%BB%9ANG%20D%E1%BA%AAN%20%C3%81P%20D%E1%BB%A4NG%20G%E1%BB%ACI%20XML%20THEO%20Q%C4%90%204750.md)
+- NAS DH
+
+___I.5 Link tải phần mềm mới___
+
+- [Admin] (https://gofile.me/78TQg/47IND1Fyf)
+- [Medicine] (https://gofile.me/78TQg/WLJ5FWtI2)
+- [Register] (https://gofile.me/78TQg/I1wZ2Fzet)
+- [Prescription] (https://gofile.me/78TQg/2RUIcgJyc)
 
 __II. Chuẩn bị dữ liệu phần mềm Admin__
 
@@ -106,20 +113,20 @@ ___II.5 Danh mục quốc gia___
 
 ___II.6 Danh mục dân tộc___
 
-- Khai báo số liêu -> Con người -> Dân tộc: Cập nhật mã QĐ4750 cho các dân tộc đơn vị có sử dụng (quy định tại danh mục các dân tộc Việt Nam ban hành kèm theo Quyết định số 121-TCTK/PPCĐ ngày 02/3/1979 của Tổng cục trưởng Tổng cục Thống kê). Tra cứu mã dân tộc tại đường [link](http://tongdieutradanso.vn/danh-muc-cac-dan-toc-viet-nam.html)
+- Khai báo số liệu -> Con người -> Dân tộc: Cập nhật mã QĐ4750 cho các dân tộc đơn vị có sử dụng (quy định tại danh mục các dân tộc Việt Nam ban hành kèm theo Quyết định số 121-TCTK/PPCĐ ngày 02/3/1979 của Tổng cục trưởng Tổng cục Thống kê). Tra cứu mã dân tộc tại đường [link] (http://tongdieutradanso.vn/danh-muc-cac-dan-toc-viet-nam.html)
 
 - ![ảnh](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/88cf95e4-8e00-4e22-b904-78fefbb83219)
 
 ___II.7 Danh mục nghề nghiệp___
 
-- Khai báo số liêu -> Con người -> Nghề nghiệp: Cập nhật mã quyết định 4750 cho các nghề nghiệp đơn vị có sử dụng (quy định tại Quyết định số 34/2020/QĐ-TTg ngày 26 tháng 11 năm 2020 của Thủ tướng Chính phủ). Tra cứu mã nghề nghiệp tại đường [link](https://luatvietnam.vn/lao-dong/quyet-dinh-34-2020-qd-ttg-danh-muc-nghe-nghiep-viet-nam-194623-d1.html). Nghề nghiệp không có mã xác định  thì ghi mã 00000. Lưu ý: Chỉ sử dụng mã cấp 5
+- Khai báo số liệu -> Con người -> Nghề nghiệp: Cập nhật mã quyết định 4750 cho các nghề nghiệp đơn vị có sử dụng (quy định tại Quyết định số 34/2020/QĐ-TTg ngày 26 tháng 11 năm 2020 của Thủ tướng Chính phủ). Tra cứu mã nghề nghiệp tại đường [link] (https://luatvietnam.vn/lao-dong/quyet-dinh-34-2020-qd-ttg-danh-muc-nghe-nghiep-viet-nam-194623-d1.html). Nghề nghiệp không có mã xác định  thì ghi mã 00000. Lưu ý: Chỉ sử dụng mã cấp 5
 
 - ![ảnh](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/15e21d8f-6e16-4f24-9d9d-c6f3a5780e28)
 
 
 ___II.8 Danh mục địa phương___
 
-- Khai báo số liêu -> Con người -> Địa phương: Cập nhật mã địa phương làm địa chỉ của bệnh nhân
+- Khai báo số liệu -> Con người -> Địa phương: Cập nhật mã địa phương làm địa chỉ của bệnh nhân
   - Mã tỉnh: Chọn nút chỉnh (hình cây bút) trước tên tỉnh, nhập mã liên thông rồi lưu lại, ghi theo 02 ký tự cuối của mã đơn vị hành chính của tỉnh (quy định tại Phụ lục 1 Thông tư số 07/2016/TT-BCA ngày 01 tháng 2 năm 2016 của Bộ trưởng Bộ Công an)
  
   - ![ảnh](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/e88ea037-c049-4f7c-a638-f48238daa434)
@@ -192,7 +199,7 @@ ___II.15 Cấu hình mã chỉ số, tên chỉ số, đơn vị đo CLS___
  
   - ![ảnh](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/92d59b4d-2aa1-4b79-af07-f7fa32abb26c)
 
-- Cập nhật từ file excel
+- Cập nhật từ file excel (phần mềm chưa hỗ trợ cập nhật đơn vị đo từ file excel)
 
   - Danh mục CLS (thông tư 37) -> Cấu hình tên chỉ số, mã chỉ số theo Xml 4 (4210) -> Nhập từ file Excel -> Xuất tập tin mẫu sau đó điền thông tin vào vào file excel mẫu (gridXNExcel.xlsx), sau đó chọn nút chọn tập tin -> Kiểm tra cấu trúc (nếu đúng cấu trúc) -> Cập nhật vào hệ thống
  
@@ -209,7 +216,7 @@ ___II.16 Danh mục địa phương 4750___
 
 - Khai báo số liệu -> Con người -> Địa phương 4750
 
-  - Bước 1: vào danh mục địa phương 4750 làm theo hướng dẫn để vào trang website tải danh mục địa phương mới [Link tải](https://danhmuchanhchinh.gso.gov.vn/Default.aspx)
+  - Bước 1: vào danh mục địa phương 4750 làm theo hướng dẫn để vào trang website tải danh mục địa phương mới [Link tải] (https://danhmuchanhchinh.gso.gov.vn/Default.aspx)
  
   - ![ảnh](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/2718667d-ca02-4856-89d5-e0c2896bf665)
  
@@ -249,14 +256,12 @@ __III. Chuẩn bị dữ liệu phần mềm Medicine__
 ___III.1 Yêu cầu___
 
 - Cập nhật tất cả các cấu trúc mới trên phần mềm Admin
-- Sử dụng phần mềm Medicine mới từ bảng HospitalMedicine.exe.v3.24.0618.0 trở về sau
+- Sử dụng phần mềm Medicine mới từ bảng HospitalMedicine.exe.v3.24.0625.0 trở về sau
 
 
 ___III.2 Danh mục thuốc___
 
-- TT thầu: Ghi thông tin thầu của thuốc theo thứ tự, gồm: Số quyết định phê duyệt kết quả lựa chọn nhà thầu; mã gói thầu; mã nhóm thầu (theo quy định tại Phụ lục số 6 ban hành kèm theo Quyết định số 5937/QĐ-BYT ngày 30 tháng 12 năm 2021 của Bộ trưởng Bộ Y tế); năm ban hành quyết định phê duyệt kết quả lựa chọn nhà thầu. Các thông tin này cách nhau bằng dấu chấm phẩy “;”. (Chi tiết xem hướng dẫn dữ liệu XML2 quyết định 130). Lưu ý:
-  - Ghi thông tin thầu của thuốc theo thứ tự, gồm: Số quyết định phê duyệt kết quả lựa chọn nhà thầu; mã gói thầu; mã nhóm thầu (theo quy định tại Phụ lục số 6 ban hành kèm theo Quyết định số 5937/QĐ-BYT ngày 30 tháng 12 năm 2021 của Bộ trưởng Bộ Y tế); năm ban hành quyết định phê duyệt kết quả lựa chọn nhà thầu. Các thông tin này cách nhau bằng dấu chấm phẩy “;”.
-Lưu ý:
+- TT thầu 4750: Ghi thông tin thầu của thuốc theo thứ tự, gồm: Số quyết định phê duyệt kết quả lựa chọn nhà thầu; mã gói thầu; mã nhóm thầu (theo quy định tại Phụ lục số 6 ban hành kèm theo Quyết định số 5937/QĐ-BYT ngày 30 tháng 12 năm 2021 của Bộ trưởng Bộ Y tế); năm ban hành quyết định phê duyệt kết quả lựa chọn nhà thầu. Các thông tin này cách nhau bằng dấu chấm phẩy “;”. (Chi tiết xem hướng dẫn dữ liệu XML2 quyết định 130). Lưu ý:
   - Trường hợp có hai nhà thầu cùng trúng thầu một thuốc thì bổ sung mã gói thầu và số thứ tự nhà thầu trúng thầu của đơn vị đấu thầu, với định dạng Gi.YY, trong đó: "i" là số gói thầu, YY là số thứ tự của nhà thầu trúng thầu trong quyết định của cơ quan có thẩm quyền phê duyệt kết quả trúng thầu, cách nhau bằng dấu chấm phẩy “;”.
   - Trường hợp áp thầu thì bổ sung mã đơn vị ban hành quyết định. Trong đó: Trung tâm mua sắm tập trung (TTMSTT) quốc gia là mã "00"; trường hợp các tỉnh, thành phố đấu thầu tập trung thì lấy mã tỉnh, thành phố; trường hợp cơ sở KCB đấu thầu thì lấy mã cơ sở KCB), cách nhau bằng dấu chấm phẩy “;”.
   - Trường hợp thuốc tự bào chế, pha chế, chế biến thì ghi thông tin thầu như sau: Số quyết định;XXXX, trong đó số quyết định là số văn bản gửi cơ quan BHXH, XXXX là năm ban hành văn bản.
@@ -272,23 +277,23 @@ Ví dụ (4): Chế phẩm Cao thấp khớp do BV YHCT Trung ương tự bào c
   -  Trường hợp chế phẩm máu có sử dụng bộ dụng cụ gạn tách (kít tách tiểu cầu, bạch cầu...) hoặc xét nghiệm được thanh toán ngoài giá đơn vị máu, chế phẩm máu quy định tại tiết d khoản 10 Điều 3 Thông tư số 17/2020/TT-BYT ngày 12/11/2020 của Bộ Y tế thì ghi M.XXXXX (trong đó XXXXX là mã cơ sở KBCB của đơn vị cung cấp máu)
   -  Trường hợp cơ sở KCB sử dụng thuốc của hạng bệnh hạng cao hơn được kê đơn, chỉ định bằng hình thức hội chẩn từ xa theo quy định tại Thông tư số 20/2022/TT-BYT thì ghi HC.XXXXX (trong đó XXXXX là mã cơ sở KCB nơi thực hiện kê đơn, chỉ định thuốc)
 
-- ![ảnh](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/78c74095-5374-4b97-987d-790f2ba91907)
+- ![image](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/b36c6a3f-f4a8-410a-a352-0096d0816714)
 
 - Dạng bào chế: Ghi dạng bào chế của thuốc (đối với thuốc hoá dược) hoặc dạng bào chế, chế biến của thuốc (đối với thuốc cổ truyền, thuốc dược liệu) theo thông tin được Cục Quản lý Dược hoặc Cục Quản lý Y, dược cổ truyền cấp giấy đăng ký lưu hành. Trường hợp thuốc do cơ sở KBCB tự bào chế, chế biến thì ghi dạng bào chế, chế biến của thuốc theo đúng hồ sơ được người đứng đầu cơ sở KBCB phê duyệt.
 
-- ![ảnh](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/802f821b-1483-4b29-8142-8c9e491c6d88)
+- ![image](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/da2f8c63-4452-4ac6-972c-96d41bc30f0c)
 
 
 ___III.2 Danh mục VTYT___
 
-- TT Thầu: Ghi thông tin thầu của VTYT theo thứ tự, gồm: Số quyết định phê duyệt kết quả lựa chọn nhà thầu; số gói thầu; mã nhóm thầu; năm ban hành quyết định phê duyệt kết quả lựa chọn nhà thầu. Các thông tin này cách nhau bằng dấu chấm phẩy “;”. Lưu ý:
+- TT Thầu 4750: Ghi thông tin thầu của VTYT theo thứ tự, gồm: Số quyết định phê duyệt kết quả lựa chọn nhà thầu; số gói thầu; mã nhóm thầu; năm ban hành quyết định phê duyệt kết quả lựa chọn nhà thầu. Các thông tin này cách nhau bằng dấu chấm phẩy “;”. Lưu ý:
   - Những VTYT đã được đấu thầu mua sắm hoặc đã được phê duyệt kế hoạch lựa chọn nhà thầu trước ngày 14/4/2023: Sử dụng mã nhóm thầu VTYT theo Phụ lục 7 ban hành kèm theo Quyết định số 5937/QĐ-BYT ngày 30/12/2021 của Bộ trưởng Bộ Y tế;
   - Những VTYT được đấu thầu mua sắm hoặc được phê duyệt kế hoạch lựa chọn nhà thầu kể từ ngày 14/4/2023: Tạm thời sử dụng mã nhóm thầu là "N0";
   - Trường hợp VTYT áp thầu thì Trường thông tin TT_THAU của VTYT ghi như sau: Số quyết định.Mã đơn vị ban hành quyết định;Gi;Ni;XXXX. Mã đơn vị ban hành quyết định trúng thầu của VTYT thực hiện như sau: TTMSTT quốc gia là mã "00"; trường hợp các tỉnh, thành phố đấu thầu tập trung thì sử dụng mã tỉnh, thành phố; trường hợp cơ sở KBCB đấu thầu thì sử dụng mã cơ sở KBCB; Gi là số gói thầu; Ni là số nhóm thầu; XXXX là năm ban hành quyết định).
   - Trường hợp VTYT tự sản xuất: Số quyết định trúng thầu thì ghi theo số văn bản gửi cơ quan BHXH, năm ban hành quyết định thì ghi năm ban hành văn bản
   - Trường hợp VTYT được phê duyệt kế hoạch lựa chọn nhà thầu trước ngày Thông tư số 14/2020/TT-BYT có hiệu lực thì trường TT_THAU ghi như sau: Số quyết định.Mã đơn vị ban hành quyết định;Gi;XXXX
 
-- ![ảnh](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/47bd23a9-8ca8-4171-a63e-0df4c97f6d83)
+- ![image](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/06dc5823-e61f-49cf-bfba-44176ca948a3)
 
 
 __IV. Gửi dữ liệu XML theo quyết định 4750 cổng đào tạo BHXH__
@@ -329,7 +334,14 @@ ___V.1 Nhận bệnh và hiệu chỉnh thông tin___
 
 - ![ảnh](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/81e647c0-d841-4da7-8aa1-794ec91d00bf)
 
-- Có thêm chức năng nhập giấy xác nhận lưu trú và thông tin giấy hẹn, giấy chuyển tuyến. Hướng dẫn chi tiết: [Hướng dẫn nhận bệnh có giấy xác nhận lưu trú - giấy hẹn và giấy chuyển tuyến](https://github.com/dh-hos/To_Ho_Tro/blob/main/HUONG_DAN_SU_DUNG/tra_HD%20NH%E1%BA%ACN%20B%E1%BB%86NH%20B%E1%BB%86NH%20NH%C3%82N%20C%C3%93%20GI%E1%BA%A4Y%20X%C3%81C%20NH%E1%BA%ACN%20L%C6%AFU%20TR%C3%9A%20-%20GI%E1%BA%A4Y%20H%E1%BA%B8N%20V%C3%80%20GI%E1%BA%A4Y%20CHUY%E1%BB%82N%20TUY%E1%BA%BEN.md)
+- Nhóm máu: bổ sung nhóm máu bệnh nhân vào phần chỉ số sinh hiệu ở nhận bệnh, hiệu chỉnh thông tin bệnh nhân (sử dụng Register, Prescription, Treatment, Admin từ ngày 21/06/2024 về sau)
+
+- ![image](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/3e7e42f7-2d1f-408a-b888-ad99389cdc9b)
+
+- ![image](https://github.com/dh-hos/To_Ho_Tro/assets/97272332/a004af5e-772b-455b-a361-a5f3fcc6f4f5)
+
+
+- Có thêm chức năng nhập giấy xác nhận lưu trú và thông tin giấy hẹn, giấy chuyển tuyến. Hướng dẫn chi tiết: [Hướng dẫn nhận bệnh có giấy xác nhận lưu trú - giấy hẹn và giấy chuyển tuyến]()
 
 
 ___V.2 Cấp toa___
