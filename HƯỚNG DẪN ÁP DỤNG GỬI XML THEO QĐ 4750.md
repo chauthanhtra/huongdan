@@ -730,6 +730,17 @@ ___V.14 Hướng dẫn cấu hình ràng buộc thời gian thực hiện, thờ
 ![image](https://github.com/user-attachments/assets/64b33098-7f88-488e-b0cc-1a16a4acc48a)
 
 
+___V.15 Hướng dẫn cấu hình tài khoản và mật khẩu nhân viên kiểm tra thông tuyến theo công văn số 1923/BHXH-CNTT ngày 20/6/2024 của Bảo hiểm xã hội Việt Nam___
+
+- Sử dụng Admin, Register, Prescription, Treatment, Printer, Reports phiên bản từ ngày 12/08/2024.
+- Bước 1: Đăng ký IP tĩnh và tài khoản nhân viên kiểm tra thông tuyến với cổng BHXH.
+- Bước 2: Vào phần mềm Admin -> Danh mục nhân viên – người dùng -> Chọn nhân viên có tài khoản kiểm tra thông tuyến đã đăng ký với cổng BHXH -> Cập nhật họ lót không chức danh, tài khoản, mật khẩu, số CCCD, ngày sinh của nhân viên kiểm tra thông tuyến. Nếu muốn sử dụng tài khoản này để kiểm tra thông tuyến cho cả khoa thì check dùng chung theo đơn vị (khoa phòng), nếu muốn sử dụng chung cho cả bệnh viện thì check vào cả bệnh viện. Thứ tự ưu tiên khi sử dụng tài khoản kiểm tra thông tuyến: tài khoản cá nhân -> nếu cá nhân không có tài khoản thì xét lấy tài khoản dùng chung cho đơn vị (khoa phòng) -> nếu đơn vị (khoa phòng) không có tài khoản thì xét lấy tài khoản dùng chung cho cả bệnh viện.
+
+![ảnh](https://github.com/user-attachments/assets/d27d6dc6-ae91-4a46-afe2-ffa86677ca1d)
+
+- Bước 3: Sử dụng chức năng kiểm tra thông tuyến trên các phần mềm bình thường.
+
+
 
 ___Hết___
 
